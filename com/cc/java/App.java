@@ -15,7 +15,6 @@ public class App {
         output("------------------------");
 
         Tomcat tomcat = new Tomcat("Alonzo", "grey", 35); 
-        
         output(tomcat.getStringAttributes("#name"));
         output(tomcat.getStringAttributes("#color"));
         output(tomcat.getAge());
