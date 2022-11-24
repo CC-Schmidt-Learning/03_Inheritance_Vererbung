@@ -1,4 +1,4 @@
-
+package com.cc.java;
 public class Tomcat {
  
    private String name;
